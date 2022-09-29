@@ -1,0 +1,21 @@
+@import 'variables';
+/*
+	здесь мы переопределяем все стили vuetify которые нельзя заменить в теме
+ */
+@import '~vuetify/src/styles/styles.sass';
+
+.v-btn:not(.v-btn--round).v-size--default {
+  width: 100%;
+}
+.v-btn:not(.v-btn--round).small {
+  width: 30px;
+}
+
+.row {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+b {
+  font-weight: bold;
+}
