@@ -3,7 +3,7 @@
     <v-container>
       <v-row>
         <v-col cols="12">
-          <h2 class="mb-4">Загрузка данных:</h2>
+          <h2 class="mb-4">Загрузка данных2222:</h2>
         </v-col>
         <v-col cols="12"  md="6">
           <v-btn
